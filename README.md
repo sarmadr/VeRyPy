@@ -14,6 +14,7 @@ Ve Ry Py
 <!-- TODO: https://www.smartfile.com/blog/testing-python-with-travis-ci/ -->
 <!-- [![Travis](https://img.shields.io/travis/zalandoresearch/flair.svg)](https://travis-ci.org/zalandoresearch/flair) -->
 
+fixed another issue without a branch with the special name for TES-6
 Fixed some stuff about issue SBT-5
 Sarmad is trying to commit after cloning this from his own new branch, shoud resolve the problem with push.
 Sarmad has just cloned and pushed this to his own branch!
